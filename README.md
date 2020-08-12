@@ -1,6 +1,6 @@
 # Programming
 
-**TODO: Add description**
+In order to start the application, run ies -S mix
 
 ## Installation
 
